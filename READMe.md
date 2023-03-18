@@ -23,6 +23,8 @@ I'm a Front-end Developer with over  years of experience in web design and  app 
 
 ## 🌍 Find Me Online
 
+- 📚 Blog: [](your_blog_link)
+- 🌐 Portfolio: [tibenkana](your_portfolio_link)
 - 💼 LinkedIn: [moris-tibenkana](https://www.linkedin.com/in/moris-tibenkana-34116b182/)
 - 🐦 Twitter: [tibenkanamoris](https://twitter.com/tibenkanamoris)
 
