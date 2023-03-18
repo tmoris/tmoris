@@ -17,16 +17,17 @@ I'm a Front-end Developer with over 2 years of experience in web design and  app
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tmoris&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tmoris&layout=compact&theme=radical)
 
 ## 🌍 Find Me Online
 
 - 📚 Blog: [your_blog_link](your_blog_link)
-- 🌐 Portfolio:[ [your_portfolio_link](your_portfolio_link)](https://twitter.com/tibenkanamoris)
-- 💼 LinkedIn: [(https://www.linkedin.com/in/moris-tibenkana-34116b182/)]
-- 🐦 Twitter:(
+- 🌐 Portfolio: [your_portfolio_link](your_portfolio_link)
+- 💼 LinkedIn: [your_linkedin_link]([your_linkedin_link](https://www.linkedin.com/in/moris-tibenkana-34116b182/))
+- 🐦 Twitter: [your_twitter_link]([your_twitter_link](https://twitter.com/tibenkanamoris))
+
 
 Feel free to reach out to me at tibenkanamoris.com@gmail.com or send me a message on any of the platforms above. I'm always open to new challenges and opportunities to collaborate with like-minded professionals.
 
