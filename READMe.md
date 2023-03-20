@@ -24,6 +24,7 @@ I'm a Front-end Developer with over  years of experience in web design and  app 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tmoris" alt="tibenkana moris" /></a> </p>
 
+[![@tmoris's Holopin board](https://holopin.me/tmoris)](https://holopin.io/@tmoris)
 ## 🌍 Find Me Online
 
 - 📚 Blog: [](your_blog_link)
