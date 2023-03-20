@@ -24,7 +24,7 @@ I'm a Front-end Developer with over  years of experience in web design and  app 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tmoris" alt="tibenkana moris" /></a> </p>
 
-<a href="http://www.github.com/tmoris"><img src="https://activity-graph.herokuapp.com/graph?username=tmoris&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+[![tmoris's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tmoris)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌍 Find Me Online
 
