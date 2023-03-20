@@ -8,8 +8,8 @@ I'm a Front-end Developer with over  years of experience in web design and  app 
 
 ## 🌟 My Skills & Expertise
 
-- Front-end: HTML, CSS, JavaScript.
-- Back-end: Currently learning React, Python, Django, Flask, Node.js.
+- Front-end: HTML, CSS, JavaScript, React.
+- Back-end: Currently learning  Python, Django, Flask, Node.js.
 - Databases: Gaining experience in MySQL, MongoDB, SQLite
 - Version Control: Git, GitHub,and  GitLab
 - CI/CD: Jenkins and Travis CI
