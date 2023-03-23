@@ -1,4 +1,3 @@
-### About Me
 # Hi, I'm Tibenkana Moris Github's tmoris  👋
 
 ![Profile views](https://gpvc.arturio.dev/tmoris)
