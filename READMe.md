@@ -24,6 +24,12 @@ I'm a Front-end Developer with over  years of experience in web design and  app 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tmoris" alt="tibenkana moris" /></a> </p>
 
+## My WakaTime stats
+
+[![Tibenkana Moris
+(@tmoris) wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tibenkana Moris
+@tmoris)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 🌍 Find Me Online
 
