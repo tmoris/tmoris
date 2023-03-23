@@ -26,8 +26,9 @@ I'm a Front-end Developer with over  years of experience in web design and  app 
 
 ## My WakaTime stats
 
-[![Tibenkana Moris's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tibenkana Moris
+[![TibenkanaMoris's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TibenkanaMoris
 (@tmoris)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 🌍 Find Me Online
