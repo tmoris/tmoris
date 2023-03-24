@@ -27,7 +27,7 @@ I'm a Front-end Developer with over  years of experience in web design and  app 
 
 ## 🌍 Find Me Online
 
-- 📚 Blog: [Clean Code](your_blog_linhttps://www.linkedin.com/posts/moris-tibenkana-34116b182_cleancode-codequality-softwaredevelopment-activity-7044146435478462464-eCQD?utm_source=share&utm_medium=member_desktopk)
+- 📚 Blog: [Clean Code](https://www.linkedin.com/posts/moris-tibenkana-34116b182_cleancode-codequality-softwaredevelopment-activity-7044146435478462464-eCQD?utm_source=share&utm_medium=member_desktopk)
 - 🌐 Portfolio: [tibenkana](your_portfolio_link)
 - 💼 LinkedIn: [moris-tibenkana](https://www.linkedin.com/in/moris-tibenkana-34116b182/)
 - 🐦 Twitter: [tibenkanamoris](https://twitter.com/tibenkanamoris)
