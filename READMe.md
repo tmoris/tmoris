@@ -5,7 +5,7 @@
 
 I'm a software Developer with over 1+ years of experience in web design and  app development, specializing in JavaScript, HTML, CSS, SCSS and Boostrap. I'm passionate about creating innovative and user-friendly applications that drive results for businesses. In my free time, I enjoy contributing to open-source projects and exploring the latest industry trends.
 
----
+--
 
 ## 🌟 My Skills & Expertise
 
@@ -18,7 +18,7 @@ I'm a software Developer with over 1+ years of experience in web design and  app
 - Agile methodologies: Hope to learn more Scrum, Kanban
 
 
----
+--
 
 ### 📈 GitHub Stats
 
@@ -27,7 +27,7 @@ I'm a software Developer with over 1+ years of experience in web design and  app
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmoris&layout=compact&theme=graywhite" alt="tmoris" />
 </p>
 
----
+--
 ### 📊 Wakatime Stats
 
 <p align="center">
