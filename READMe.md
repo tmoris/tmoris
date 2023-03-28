@@ -16,6 +16,17 @@ I'm a software Developer with over 1+ years of experience in web design and  app
 - CI/CD: Jenkins and Travis CI
 - Deployment: Heroku, Firebase, Vercel
 - Agile methodologies: Hope to learn more Scrum, Kanban
+- 
+
+## 🛠️ Technologies & Tools
+
+<p align="center">
+<code><img height="20" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"></code>
+<code><img height="20" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"></code>
+<code><img height="20" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"></code>
+</p>
+
 
 
 
