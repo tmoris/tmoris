@@ -16,7 +16,8 @@ I'm a software Developer with over 1+ years of experience in web design and  app
 - CI/CD: Jenkins and Travis CI
 - Deployment: Heroku, Firebase, Vercel
 - Agile methodologies: Hope to learn more Scrum, Kanban
-- 
+
+
 
 ## 🛠️ Technologies & Tools
 
@@ -60,6 +61,7 @@ I'm a software Developer with over 1+ years of experience in web design and  app
 <!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmoris&layout=compact&theme=dracula" alt="tmoris" />
 </p>
+
 
 
 ## 📊 Wakatime Stats
