@@ -20,7 +20,7 @@ I'm a software Developer with over 1+ years of experience in web design and  app
 
 --
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tmoris&show_icons=true&theme=graywhite&count_private=true" alt="tmoris" />
@@ -28,7 +28,7 @@ I'm a software Developer with over 1+ years of experience in web design and  app
 </p>
 
 --
-### 📊 Wakatime Stats
+## 📊 Wakatime Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tmoris&layout=compact&theme=graywhite" alt="tmoris" />
