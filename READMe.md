@@ -23,9 +23,9 @@ I'm a software Developer with over 1+ years of experience in web design and  app
 
 <!-- GitHub Stats -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?tmoris&show_icons=true&theme=dracula&count_private=true" alt="tmoris" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tmoris&show_icons=true&theme=dracula&count_private=true" alt="tmoris" />
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?tmoris&layout=compact&theme=dracula" alt="tmoris" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmoris&layout=compact&theme=dracula" alt="tmoris" />
 </p>
 
 
