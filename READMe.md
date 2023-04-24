@@ -3,7 +3,7 @@
 ![Profile views](https://gpvc.arturio.dev/tmoris)
 
 
-I'm a software Developer with expertize in web design and  app development. I'm passionate about creating innovative and user-friendly applications that drive results for businesses. In my free time, I enjoy contributing to open-source projects and exploring the latest industry trends.
+I'm a software Developer with expertize in web design and  app development. I'm passionate about creating simple, innovative and user-friendly applications that drive results for businesses. In my free time, I enjoy contributing to open-source projects and exploring the latest industry trends.
 
 
 
