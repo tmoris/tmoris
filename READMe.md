@@ -1,8 +1,5 @@
 # Hi, I'm Tibenkana Moris Github's tmoris  👋
 
-![Profile views](https://gpvc.arturio.dev/tmoris)
-
-
 I'm a software Developer with expertize in web design and  app development. I'm passionate about creating simple, innovative and user-friendly applications that drive results for businesses. In my free time, I enjoy contributing to open-source projects and exploring the latest industry trends.
 
 
@@ -10,9 +7,9 @@ I'm a software Developer with expertize in web design and  app development. I'm 
 ## 🌟 My Skills & Expertise
 
 - Front-end: HTML, CSS, JavaScript, React.
-- Back-end: Python, Django, Flask, Node.js.
+- Back-end: Python, Django, Flask.
 - Databases: Gaining experience in MySQL, MongoDB, SQLite
-- Version Control: Git, GitHub,and  GitLab
+- Version Control: Git, and GitHub
 - CI/CD: Jenkins and Travis CI
 - Deployment: Heroku, Firebase, Vercel
 - Agile methodologies: Hope to learn more Scrum, Kanban
