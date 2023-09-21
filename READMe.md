@@ -1,6 +1,6 @@
 # Hi, I'm Tibenkana Moris Github's tmoris  👋
 
-I'm a software Developer with expertize in web design and  app development. I'm passionate about creating simple, innovative and user-friendly applications that drive results for businesses. In my free time, I enjoy contributing to open-source projects and exploring the latest industry trends.
+I'm a software Developer with expertize in web design and  app development. I'm passionate about creating simple, innovative and user-friendly applications that drive results for businesses.
 
 
 
@@ -8,7 +8,7 @@ I'm a software Developer with expertize in web design and  app development. I'm 
 
 - Front-end: HTML, CSS, JavaScript, React.
 - Back-end: Python, Django, Flask.
-- Databases: Gaining experience in MySQL, MongoDB, SQLite
+- Databases: Gaining experience in MySQL, SQL, SQLite
 - Version Control: Git, and GitHub
 - CI/CD: Jenkins and Travis CI
 - Deployment: Heroku, Firebase, Vercel
@@ -72,7 +72,7 @@ I'm a software Developer with expertize in web design and  app development. I'm 
 ## 🌍 Find Me Online
 
 - 📚 Blog: [Clean Code](https://www.linkedin.com/posts/moris-tibenkana-34116b182_cleancode-codequality-softwaredevelopment-activity-7044146435478462464-eCQD?utm_source=share&utm_medium=member_desktopk)
-- 🌐 Portfolio: [tibenkana](your_portfolio_link)
+- 🌐 Portfolio: [tibenkana](https://tibenkanamoris.com/)
 - 💼 LinkedIn: [moris-tibenkana](https://www.linkedin.com/in/moris-tibenkana-34116b182/)
 - 🐦 Twitter: [tibenkanamoris](https://twitter.com/tibenkanamoris)
 
