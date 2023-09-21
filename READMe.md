@@ -72,7 +72,7 @@ I'm a software Developer with expertize in web design and  app development. I'm 
 ## 🌍 Find Me Online
 
 - 📚 Blog: [Clean Code](https://www.linkedin.com/posts/moris-tibenkana-34116b182_cleancode-codequality-softwaredevelopment-activity-7044146435478462464-eCQD?utm_source=share&utm_medium=member_desktopk)
-- 🌐 Portfolio: [tibenkana](https://tibenkanamoris.com/)
+- 🌐 Portfolio: [tibenkanamoris](https://tibenkanamoris.com/)
 - 💼 LinkedIn: [moris-tibenkana](https://www.linkedin.com/in/moris-tibenkana-34116b182/)
 - 🐦 Twitter: [tibenkanamoris](https://twitter.com/tibenkanamoris)
 
